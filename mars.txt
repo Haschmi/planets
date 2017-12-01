@@ -1,3 +1,4 @@
 Cold and dry, but everything is my favourite colour
 The two moons may be a problem for wolfman though
 demo for add/commit in one step
+this is the only change we want
